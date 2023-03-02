@@ -1,8 +1,8 @@
 {
   "appName" : "Paymant system",
-  "db-user" : "bekk",
-  "db-password" : "12345",
+  "db-user" : "test",
+  "db-password" : "test",
   "db-host" : "localhost",
-  "db-port" : 5433,
+  "db-port" : 5432,
   "db-name" : "myDb"
 }
